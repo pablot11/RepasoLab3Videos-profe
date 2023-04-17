@@ -1,0 +1,15 @@
+C:\Users\Alumno\source\repos\YOUTUBE_MIGUEL\bin\Debug\YOUTUBE_MIGUEL.exe.config
+C:\Users\Alumno\source\repos\YOUTUBE_MIGUEL\bin\Debug\YOUTUBE_MIGUEL.exe
+C:\Users\Alumno\source\repos\YOUTUBE_MIGUEL\bin\Debug\YOUTUBE_MIGUEL.pdb
+C:\Users\Alumno\source\repos\YOUTUBE_MIGUEL\bin\Debug\Interop.WMPLib.dll
+C:\Users\Alumno\source\repos\YOUTUBE_MIGUEL\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Alumno\source\repos\YOUTUBE_MIGUEL\obj\Debug\YOUTUBE_MIGUEL.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\YOUTUBE_MIGUEL\obj\Debug\Interop.WMPLib.dll
+C:\Users\Alumno\source\repos\YOUTUBE_MIGUEL\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Alumno\source\repos\YOUTUBE_MIGUEL\obj\Debug\YOUTUBE_MIGUEL.csproj.ResolveComReference.cache
+C:\Users\Alumno\source\repos\YOUTUBE_MIGUEL\obj\Debug\YOUTUBE_MIGUEL.Form1.resources
+C:\Users\Alumno\source\repos\YOUTUBE_MIGUEL\obj\Debug\YOUTUBE_MIGUEL.Properties.Resources.resources
+C:\Users\Alumno\source\repos\YOUTUBE_MIGUEL\obj\Debug\YOUTUBE_MIGUEL.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\YOUTUBE_MIGUEL\obj\Debug\YOUTUBE_MIGUEL.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\YOUTUBE_MIGUEL\obj\Debug\YOUTUBE_MIGUEL.exe
+C:\Users\Alumno\source\repos\YOUTUBE_MIGUEL\obj\Debug\YOUTUBE_MIGUEL.pdb
